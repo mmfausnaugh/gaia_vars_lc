@@ -1,0 +1,4 @@
+outs:
+- md5: 75bc6b2403d61a0901493b890a3e8c05
+  size: 208879014
+  path: s3_gaia_vars.tgz

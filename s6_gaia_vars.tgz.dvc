@@ -1,0 +1,4 @@
+outs:
+- md5: 2f0441992fbc7d740d1ec0bbe2ab0526
+  size: 808084000
+  path: s6_gaia_vars.tgz
